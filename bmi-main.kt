@@ -4,10 +4,10 @@ fun main() {
     println("Hallo $name")
 
     println("$name wie viel Kilogramm wiegst du")
-    var Gewicht = readln().toFloat()
+    var Gewicht = readln().toDouble()
 
     println("Wie groß bist du in cm")
-    var Größe = readln().toFloat() / 100
+    var Größe = readln().toDouble()
     var BMI = Gewicht / (Größe * Größe)
     println("BMI=$BMI")
 
