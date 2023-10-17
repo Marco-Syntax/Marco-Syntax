@@ -3,7 +3,7 @@ fun main() {
     var name = readln()
     println("Hallo $name")
 
-    println("Hallo $name wie viel Kg wiegst du")
+    println("$name wie viel Kilogramm wiegst du")
     var Gewicht = readln().toFloat()
 
     println("Wie groß bist du in cm")
