@@ -13,6 +13,7 @@ fun main() {
 
 
 
+
     /*Frage den Benutzer nach seinem Namen.
     Sprich den User mit seinem Namen an und frage nach seinem Gewicht in Kilogramm.
     Frage den Benutzer zudem nach seiner Körpergröße in Metern.
