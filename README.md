@@ -56,12 +56,13 @@ Figma
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Syntax&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Syntax&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Syntax&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marco-Syntax)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marco-Syntax&theme=github)
 ---
 
 ## Technologien
