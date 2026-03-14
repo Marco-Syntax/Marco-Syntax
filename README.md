@@ -55,14 +55,9 @@ VS Code
 Figma  
 
 ---
+## Contributions
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco-Syntax&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marco-Syntax)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marco-Syntax&theme=github)
+![GitHub Contribution Chart](https://ghchart.rshah.org/Marco-Syntax)
 ---
 
 ## Technologien
