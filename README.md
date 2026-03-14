@@ -57,5 +57,3 @@ Neben der App-Entwicklung entwickle ich Backend-Services, Automationen und KI-ge
 Website  
 https://marcogrimme.de
 
-GitHub  
-https://github.com/Marco-Syntax
