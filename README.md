@@ -1,83 +1,54 @@
-# 👋 Hi, ich bin Marco Grimme
+# Marco Grimme
 
-Mobile Developer | Software Engineer
+Mobile Developer mit Fokus auf moderne App-Entwicklung für iOS, Android und Cross-Platform.
 
-Ich entwickle moderne Softwarelösungen mit Fokus auf Mobile Apps, skalierbare Backend-Systeme und saubere Softwarearchitektur.
+Ich entwickle skalierbare Anwendungen mit sauberer Architektur, hoher Performance und wartbarem Code.
 
-Mein Schwerpunkt liegt auf der Entwicklung von Anwendungen mit Flutter sowie Backend-Systemen mit Python und FastAPI.
+🌐 Website  
+https://marcogrimme.de
 
----
-
-## Über mich
-
-Softwareentwickler mit Fokus auf Mobile Development und Backend-Technologien.  
-Ich arbeite an Anwendungen mit klarer Architektur, hoher Wartbarkeit und performanter Umsetzung.
-
-Schwerpunkte:
-
-Mobile App Development für iOS und Android  
-Backend-Services und APIs  
-Saubere Softwarearchitektur (MVVM, Clean Architecture)  
-Integration moderner Web- und Cloud-Technologien  
-
----
-
-## Tech Stack
-
-### Mobile Development
-
-Flutter  
-SwiftUI  
-Kotlin  
-
-### Backend
-
-Python  
-FastAPI  
-REST APIs  
-
-### Datenbanken
-
-MariaDB  
-Core Data  
-Room  
-
-### Architektur & Tools
-
-MVVM  
-Clean Architecture  
-Riverpod  
-
-Git  
-Docker  
-Linux  
-VS Code  
-Figma  
-
----
-## Contributions
-
-![GitHub Contribution Chart](https://ghchart.rshah.org/Marco-Syntax)
 ---
 
 ## Technologien
 
+### Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Native Entwicklung
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## Architekturprinzipien
+## Architektur
 
-Clean Code  
+Clean Architecture  
+MVVM  
+REST APIs  
 Modulare Softwarearchitektur  
-Testbare Systeme  
-Skalierbare Backend-Services  
-Wartbare Codebases  
+Performante mobile Anwendungen
+
+---
+
+## GitHub Aktivität
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marco-Syntax&theme=github-dark)
+
+---
+
+Ich arbeite als Mobile Developer mit Schwerpunkt auf Flutter sowie nativer App-Entwicklung mit Swift, SwiftUI und Kotlin.
+
+Neben der App-Entwicklung entwickle ich Backend-Services, Automationen und KI-gestützte Systeme.
 
 ---
 
@@ -86,5 +57,5 @@ Wartbare Codebases
 Website  
 https://marcogrimme.de
 
-Email  
-mgrimme954@gmail.com
+GitHub  
+https://github.com/Marco-Syntax
